@@ -1,0 +1,22 @@
+.contact{
+  font-weight: bold;
+}
+.education {
+  color: #000099
+}
+.work {
+  font-style: italic;
+}
+
+.major {
+  background-color: pink;
+  color: green;
+}
+img {
+  float: right;
+}
+
+.skills {
+  font-family: monospace;
+  font-size: 20px
+}
